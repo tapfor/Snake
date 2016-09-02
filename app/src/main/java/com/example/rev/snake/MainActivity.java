@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     TableRow[]tableRows;
     ImageView[]imgNew;
     int [][]pole;
-
+//comment for changigs
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
